@@ -11,7 +11,3 @@ Writing it taught me more about handling bad input than about mathematics. Decid
     gcc calculator.c -o calculator -lm
 
 The `-lm` flag links the maths library, which the trigonometric and logarithm functions need.
-
-## Files
-
-`calculator.c` is the program. `presentation.pptx` is the class presentation.
